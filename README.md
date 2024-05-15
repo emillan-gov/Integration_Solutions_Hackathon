@@ -11,7 +11,7 @@ Tara was here!
 ### I am trying to get this to merge
 Tara was here!
 
-Brian
+***Brian***
 
 Hello world, Xilin was here!
 
